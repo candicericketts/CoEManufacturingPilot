@@ -75,9 +75,9 @@ https://youtu.be/8wY2hsIosFM?si=ImeCDy8O6bY_bDsq
 What's the Difference Between, MES, ERP, and Manufacturing Analytics?<br>
 https://youtu.be/2EYRpbk6g7Q?si=sMH1bJXnF_oXrIKw
 
-Module 6: Lean Principles Across Value Streams<br
+<h2>Module 6: Lean Principles Across Value Streams</h2><br>
                                                 
-Module 7: Quality & Safety in the Stream<br>
+<h2>Module 7: Quality & Safety in the Stream</h2><br>
 
 <h2>Module 8: Preparing for the Shop Floor</h2>
 Day in the Life<br> 
