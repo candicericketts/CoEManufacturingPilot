@@ -37,15 +37,16 @@ This guide provides an overview of key manufacturing KPIs, explaining their sign
 Link: https://www.machinemetrics.com/blog/manufacturing-kpis <br>
 Source: Machine Metrics
 
-<h2>👨‍💻 Module 2: Manufacturing Sector Overview </h2>					
+<h2>👨‍💻 Module 2: Manufacturing Streams Overview </h2>					
+
 Aerospace & Defense Manufacturing Overview <br>		
-https://youtube.com/shorts/hltt7QgutpE?si=Q0bz-O3dKoARH2yd
+Link: https://youtube.com/shorts/hltt7QgutpE?si=Q0bz-O3dKoARH2yd
 					
 The Future of Aerospace Manufacturing <br>		
-https://youtu.be/4yDKrDH8ngo?si=FRRPl0Zdx799fVQI
+Link: https://youtu.be/4yDKrDH8ngo?si=FRRPl0Zdx799fVQI
 
 Brennan Value Add Approach to Manufacturing <br>
-https://youtu.be/6W8jx9bc2fQ?si=mwSPGOf7PUjgHlnV
+Link: https://youtu.be/6W8jx9bc2fQ?si=mwSPGOf7PUjgHlnV
 
 Automotive Industry & its Supply Chain: Comprehensive Overview | Explainers <br>
 https://youtu.be/KMiuj1cgJWQ?si=zIL9g3ueQUc1DRCR
@@ -53,6 +54,10 @@ https://youtu.be/KMiuj1cgJWQ?si=zIL9g3ueQUc1DRCR
 How Cars are Made - Toyota Virtual Plant Tour <br>
 An Overview with Toyota <br>
 https://youtu.be/zQeQWGqfFN0?si=CAH8mw3VzqcqW3FR
+
+Caterpillar Facility Tour || Manufacturing Plant - Walkthrough<br>
+Link: https://youtu.be/N6jtcwX0vt4<br>
+Source: BigBang Media
 
 <h2>👨‍💻 Module 3: Types of Manufacturing Systems </h2>
 
@@ -91,17 +96,21 @@ https://youtu.be/2EYRpbk6g7Q?si=sMH1bJXnF_oXrIKw
 <h2>Module 6: Lean Principles Across Value Streams</h2><br>
 Lean Manufacturing | A pursuit of perfection <br>
 https://youtu.be/xkUjX_c32c8?si=avNVBaP1E8K00vNI
-												
+
+Value Stream Mapping <br>
+Link: https://youtu.be/MVbZkRjNO4Q?si=B44wxDSf2h47T_n-<br>
+Source: Commmunication for Greeks												
+
 <h2>Module 7: Quality & Safety in the Stream</h2><br>
-Poka-Yoke – Wikipedia
-An article that explains the concept of Poka-yoke and its role in preventing errors in manufacturing.
+Poka-Yoke <br>
+An article that explains the concept of Poka-yoke and its role in preventing errors in manufacturing.<br>
+https://youtu.be/JTI_-xwIIg8?si=FnMsKY7dTeGrYV8z <br>
+Source: LeanVlog
 
-Quality Control – YouTube <br>
-A video that discusses quality control measures in manufacturing and their importance.<br>
-https://youtu.be/Ey4MqC7Kp7g?si=oiPvNTLZ9G7aLQeT
-
-Safety Protocols – YouTube (SafetyCulture)
-A video that outlines safety protocols in manufacturing environments.
+Quality Control  <br>
+A video that discusses total quality control measures in manufacturing and their importance.<br>
+Link: https://youtu.be/ftGzS0LgK_g?si=y3MYjBxCMSGagHbC
+Source: Quizlet
 
 <h2>Module 8: Preparing for the Shop Floor</h2>
 Day in the Life<br> 
@@ -112,7 +121,7 @@ Day at Work: Manufacturing Engineer<br>
 Day in the Life video of Joenel Johnson, a Senior Manufacturing Engineer for Space Systems Loral.<br>
 https://youtu.be/HSvzjE1nZKw?si=6m-KELW69zRscJu6
 
-<h2>Module 10: Manufacturing Sectors & Environments</h2>
+<h2>Module 9: Manufacturing Sectors & Environments</h2>
 Automotive Industry Overview<br>
 https://wd103.myworkday.com/accenture/learning/course/2c7ae70aa2021002244469b5c0df0000?type=9882927d138b100019b928e75843018d
 
@@ -122,7 +131,8 @@ https://wd103.myworkday.com/accenture/learning/course/fae4c0641ed110122fc9c2c4e3
 Heavy Equipment Industry Overview<br>
 https://wd103.myworkday.com/accenture/learning/course/558ce2a4891810016df35d87d7730001?type=9882927d138b100019b928e75843018d
 
-<h2>📺Module 11: Smart Manufacturing Academy Stage 0 </h2>
+
+<h2>📺Module 10: Smart Manufacturing Academy Stage 0 </h2>
 Smart Manufacturing Skilling Academy Overview: Purdue University & Accenture <br>
 https://kxdocuments.accenture.com/contribution/0304d29f-fb17-46b3-b32d-8ebc5b476cac
 
