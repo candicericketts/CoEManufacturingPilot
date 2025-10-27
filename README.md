@@ -114,11 +114,15 @@ Link: https://youtu.be/ftGzS0LgK_g?si=y3MYjBxCMSGagHbC
 Source: Quizlet
 
 <h2>Module 9: Manufacturing Sectors & Environments</h2>
-Automotive Industry Overview<br>
+<br>Automotive Industry Overview<br>
 Link: https://wd103.myworkday.com/accenture/learning/course/2c7ae70aa2021002244469b5c0df0000?type=9882927d138b100019b928e75843018d <br>
 
 Aerospace & Defense<br>
 Link: https://wd103.myworkday.com/accenture/learning/course/fae4c0641ed110122fc9c2c4e38c0000?type=9882927d138b100019b928e75843018d <br>
+Link: https://kxdocuments.accenture.com/contribution/c9409af8-c53d-4303-b37c-7c152c33e240<br>
+
+Defense Manufacturing Excellence<br>
+Link: https://kxdocuments.accenture.com/contribution/c9409af8-c53d-4303-b37c-7c152c33e240<br>
 
 Heavy Equipment Industry Overview<br>
 Link: https://wd103.myworkday.com/accenture/learning/course/558ce2a4891810016df35d87d7730001?type=9882927d138b100019b928e75843018d<br>
