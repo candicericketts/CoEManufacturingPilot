@@ -7,32 +7,35 @@ Intro to Manufacturing Operations, Technology and Processes<br>
 Link: https://youtu.be/zR36urTYC4k?si=TJ3DCkEq4o3SmVty<br>
 Source: Digital Transformation with Eric Kimberling
 
-Manufacturing Terms and Definitions Glossary 
+Manufacturing Terms and Definitions Glossary <br>
 A comprehensive glossary that defines essential manufacturing terms, including BOM, WIP, ERP, MES, SOP, and OEE, offering clear explanations suitable for beginners. <br>
-Link: https://eworkorders.com/cmms-industry-articles-eworkorders/manufacturing-terms-definitions/
+Link: https://eworkorders.com/cmms-industry-articles-eworkorders/manufacturing-terms-definitions/ <br>
 Source: eWorkOrders
 
-Essential Manufacturing KPIs: Metrics & Dashboards Guide – MachineMetrics
-This guide provides an overview of key manufacturing KPIs, explaining their significance and how they contribute to operational efficiency, making it accessible for those new to the field. <br>
-Link: https://www.machinemetrics.com/blog/manufacturing-kpis
-Source: Machine Metrics
-
-The Ultimate Manufacturing Glossary – Raven AI		
-An extensive glossary that covers a wide range of manufacturing terms, including industry-specific acronyms, helping learners familiarize themselves with the language of manufacturing. <br>
-Link: https://raven.ai/glossary/
-
-					
-"Industry Terms and Acronyms" - eAircraftSupply
-A comprehensive glossary of aerospace and defense industry terms and acronyms, including procurement, compliance, and military technology definitions. <br>
-https://www.e-aircraftsupply.com/aircraft_products/file/industry-terms-and-acronyms.aspx
-					
-"Automotive Engineering Terminology List" – Automotive Engineering HQ
-A curated list of essential automotive, manufacturing, and quality terms compiled by automotive engineers, providing clear explanations for each term. <br>
-https://www.automotiveengineeringhq.com/automotive-engineering-terminology-list/?utm_source=chatgpt.com
-				
-"Manufacturing Glossary of Key Terms" - FedTech		
+Manufacturing Glossary of Key Terms 		
 FedTech provides a detailed glossary covering key terms related to industrial machinery, including definitions of materials, processes, and equipment-specific terminology. This resource is beneficial for understanding the terminology used in machinery operations. <br>
-https://www.fedtech.com/manufacturing-terms.html?utm_source=chatgpt.com
+Link: https://www.fedtech.com/manufacturing-terms.html <br>
+Source: FedTech
+
+The Ultimate Manufacturing Glossary <br>	
+An extensive glossary that covers a wide range of manufacturing terms, including industry-specific acronyms, helping learners familiarize themselves with the language of manufacturing. <br>
+Link: https://raven.ai/glossary/ <br>
+Source: Raven Telemetry
+					
+Aerospace & Defense Industry Terms and Acronyms <br>
+A comprehensive glossary of aerospace and defense industry terms and acronyms, including procurement, compliance, and military technology definitions. <br>
+Link: https://www.e-aircraftsupply.com/aircraft_products/file/industry-terms-and-acronyms.aspx <br>
+Source: eAircraftSupply
+					
+Automotive Engineering Terminology List <br>
+A curated list of essential automotive, manufacturing, and quality terms compiled by automotive engineers, providing clear explanations for each term. <br>
+Link: https://www.automotiveengineeringhq.com/automotive-engineering-terminology-list/ <br>
+Source: Automotive Engineering HQ
+
+Essential Manufacturing KPIs: Metrics & Dashboards Guide <br>
+This guide provides an overview of key manufacturing KPIs, explaining their significance and how they contribute to operational efficiency, making it accessible for those new to the field. <br>
+Link: https://www.machinemetrics.com/blog/manufacturing-kpis <br>
+Source: Machine Metrics
 
 <h2>👨‍💻 Module 2: Manufacturing Sector Overview </h2>					
 Aerospace & Defense Manufacturing Overview <br>		
@@ -40,6 +43,9 @@ https://youtube.com/shorts/hltt7QgutpE?si=Q0bz-O3dKoARH2yd
 					
 The Future of Aerospace Manufacturing <br>		
 https://youtu.be/4yDKrDH8ngo?si=FRRPl0Zdx799fVQI
+
+Brennan Value Add Approach to Manufacturing <br>
+https://youtu.be/6W8jx9bc2fQ?si=mwSPGOf7PUjgHlnV
 
 Automotive Industry & its Supply Chain: Comprehensive Overview | Explainers <br>
 https://youtu.be/KMiuj1cgJWQ?si=zIL9g3ueQUc1DRCR
@@ -83,7 +89,8 @@ What's the Difference Between, MES, ERP, and Manufacturing Analytics?<br>
 https://youtu.be/2EYRpbk6g7Q?si=sMH1bJXnF_oXrIKw
 
 <h2>Module 6: Lean Principles Across Value Streams</h2><br>
-
+Lean Manufacturing | A pursuit of perfection <br>
+https://youtu.be/xkUjX_c32c8?si=avNVBaP1E8K00vNI
 												
 <h2>Module 7: Quality & Safety in the Stream</h2><br>
 Poka-Yoke – Wikipedia
@@ -95,8 +102,6 @@ https://youtu.be/Ey4MqC7Kp7g?si=oiPvNTLZ9G7aLQeT
 
 Safety Protocols – YouTube (SafetyCulture)
 A video that outlines safety protocols in manufacturing environments.
-
-
 
 <h2>Module 8: Preparing for the Shop Floor</h2>
 Day in the Life<br> 
