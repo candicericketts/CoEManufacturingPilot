@@ -2,18 +2,25 @@
 A Pilot Lesson Plan for early career professionals, students and transitioning workers with little to no prior manufacturing experience. 
 
 <h2>👨‍💻 Module 1: Basic Manufacturing Terminology </h2>
-			
-"Manufacturing Terms and Definitions Glossary" – eWorkOrders
+
+Intro to Manufacturing Operations, Technology and Processes<br>
+Link: https://youtu.be/zR36urTYC4k?si=TJ3DCkEq4o3SmVty<br>
+Source: Digital Transformation with Eric Kimberling
+
+Manufacturing Terms and Definitions Glossary 
 A comprehensive glossary that defines essential manufacturing terms, including BOM, WIP, ERP, MES, SOP, and OEE, offering clear explanations suitable for beginners. <br>
-https://eworkorders.com/cmms-industry-articles-eworkorders/manufacturing-terms-definitions/?utm_source=chatgpt.com
+Link: https://eworkorders.com/cmms-industry-articles-eworkorders/manufacturing-terms-definitions/
+Source: eWorkOrders
 
-"Essential Manufacturing KPIs: Metrics & Dashboards Guide" – MachineMetrics
+Essential Manufacturing KPIs: Metrics & Dashboards Guide – MachineMetrics
 This guide provides an overview of key manufacturing KPIs, explaining their significance and how they contribute to operational efficiency, making it accessible for those new to the field. <br>
-https://www.machinemetrics.com/blog/manufacturing-kpis?utm_source=chatgpt.com
+Link: https://www.machinemetrics.com/blog/manufacturing-kpis
+Source: Machine Metrics
 
-"The Ultimate Manufacturing Glossary" – Raven AI		
+The Ultimate Manufacturing Glossary – Raven AI		
 An extensive glossary that covers a wide range of manufacturing terms, including industry-specific acronyms, helping learners familiarize themselves with the language of manufacturing. <br>
-https://raven.ai/glossary/?utm_source=chatgpt.com
+Link: https://raven.ai/glossary/
+
 					
 "Industry Terms and Acronyms" - eAircraftSupply
 A comprehensive glossary of aerospace and defense industry terms and acronyms, including procurement, compliance, and military technology definitions. <br>
@@ -76,8 +83,20 @@ What's the Difference Between, MES, ERP, and Manufacturing Analytics?<br>
 https://youtu.be/2EYRpbk6g7Q?si=sMH1bJXnF_oXrIKw
 
 <h2>Module 6: Lean Principles Across Value Streams</h2><br>
-                                                
+
+												
 <h2>Module 7: Quality & Safety in the Stream</h2><br>
+Poka-Yoke – Wikipedia
+An article that explains the concept of Poka-yoke and its role in preventing errors in manufacturing.
+
+Quality Control – YouTube <br>
+A video that discusses quality control measures in manufacturing and their importance.<br>
+https://youtu.be/Ey4MqC7Kp7g?si=oiPvNTLZ9G7aLQeT
+
+Safety Protocols – YouTube (SafetyCulture)
+A video that outlines safety protocols in manufacturing environments.
+
+
 
 <h2>Module 8: Preparing for the Shop Floor</h2>
 Day in the Life<br> 
@@ -85,7 +104,7 @@ What is the Role of a Manufacturing Engineer?<br>
 https://youtu.be/p6Tz37xM-ts?si=ZKa_u64CoKmT5Kez
 
 Day at Work: Manufacturing Engineer<br>
-Day in the Life video of Joenel Johnson, a Senior Manufacturing Engineer for Space Systems Loral.
+Day in the Life video of Joenel Johnson, a Senior Manufacturing Engineer for Space Systems Loral.<br>
 https://youtu.be/HSvzjE1nZKw?si=6m-KELW69zRscJu6
 
 <h2>Module 10: Manufacturing Sectors & Environments</h2>
