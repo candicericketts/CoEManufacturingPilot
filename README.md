@@ -37,7 +37,7 @@ This guide provides an overview of key manufacturing KPIs, explaining their sign
 Link: https://www.machinemetrics.com/blog/manufacturing-kpis <br>
 Source: Machine Metrics
 
-<h2>👨‍💻 Module 3: Types of Manufacturing Systems </h2>
+<h2>👨‍💻 Module 2: Types of Manufacturing Systems </h2>
 Types of manufacturing in 60 seconds <br>
 https://youtube.com/shorts/mwRT8QIukqY?si=o8maVdPZA1xMNvJn<br>
 
@@ -45,7 +45,7 @@ Types Of Manufacturing Processes (Job Shop, Batch, Mass, Flow, Process Type Manu
 Link: https://youtu.be/jkkZGHfEYBY?si=wMcaCumWFls_EMUD <br>
 Source: Academic Gains Tutorials<br>
 
-<h2> Module 4: Types of Manufacturing Production </h2>
+<h2> Module 3: Types of Manufacturing Production </h2>
 
 Manufacturing Processes Explained | Lecture 13 | Casting, Machining, Welding & More (Animated)<br>
 https://youtu.be/5av05xnYApo?si=oGrmnZ1nGP1f0yDV
@@ -58,7 +58,7 @@ How Things Are Made | An Animated Introduction to Manufacturing Processes<br>
 Beginning Engineers | Types Of Manufacturing<br>
 https://youtu.be/id3nSK2WjA4?si=RhLMuWau9YnMl6Lh
 
-<h2>👨‍💻 Module 2: Manufacturing Streams Overview </h2>					
+<h2>👨‍💻 Module 4: Manufacturing Streams Overview </h2>					
 
 Aerospace & Defense Manufacturing Overview <br>		
 Link: https://youtube.com/shorts/hltt7QgutpE?si=Q0bz-O3dKoARH2yd
@@ -79,7 +79,6 @@ https://youtu.be/zQeQWGqfFN0?si=CAH8mw3VzqcqW3FR
 Caterpillar Facility Tour || Manufacturing Plant - Walkthrough<br>
 Link: https://youtu.be/N6jtcwX0vt4<br>
 Source: BigBang Media
-
 
 <h2> Module 5: Material & Information Flow </h2>
 
@@ -114,15 +113,6 @@ A video that discusses total quality control measures in manufacturing and their
 Link: https://youtu.be/ftGzS0LgK_g?si=y3MYjBxCMSGagHbC
 Source: Quizlet
 
-<h2>Module 8: Preparing for the Shop Floor</h2>
-Day in the Life<br> 
-What is the Role of a Manufacturing Engineer?<br>
-Link: https://youtu.be/p6Tz37xM-ts?si=ZKa_u64CoKmT5Kez <br>
-
-Day at Work: Manufacturing Engineer<br>
-Day in the Life video of Joenel Johnson, a Senior Manufacturing Engineer for Space Systems Loral.<br>
-Link: https://youtu.be/HSvzjE1nZKw?si=6m-KELW69zRscJu6<br>
-
 <h2>Module 9: Manufacturing Sectors & Environments</h2>
 Automotive Industry Overview<br>
 Link: https://wd103.myworkday.com/accenture/learning/course/2c7ae70aa2021002244469b5c0df0000?type=9882927d138b100019b928e75843018d <br>
@@ -132,6 +122,15 @@ Link: https://wd103.myworkday.com/accenture/learning/course/fae4c0641ed110122fc9
 
 Heavy Equipment Industry Overview<br>
 Link: https://wd103.myworkday.com/accenture/learning/course/558ce2a4891810016df35d87d7730001?type=9882927d138b100019b928e75843018d<br>
+
+<h2>Module 8: Preparing for the Shop Floor</h2>
+Day in the Life<br> 
+What is the Role of a Manufacturing Engineer?<br>
+Link: https://youtu.be/p6Tz37xM-ts?si=ZKa_u64CoKmT5Kez <br>
+
+Day at Work: Manufacturing Engineer<br>
+Day in the Life video of Joenel Johnson, a Senior Manufacturing Engineer for Space Systems Loral.<br>
+Link: https://youtu.be/HSvzjE1nZKw?si=6m-KELW69zRscJu6<br>
 
 <h2>📺Module 10: Smart Manufacturing Academy Stage 0 </h2>
 Smart Manufacturing Skilling Academy Overview: Purdue University & Accenture <br>
