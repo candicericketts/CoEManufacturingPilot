@@ -1,4 +1,4 @@
-<img width="640" height="33" alt="image" src="https://github.com/user-attachments/assets/4c4989fc-0439-42e4-9ee5-8b0022668d47" /><img width="640" height="33" alt="image" src="https://github.com/user-attachments/assets/b4d8d0fc-83cc-482e-a4ba-7972dce28964" /><h1># CoE Manufacturing Pilot Courses</h1>
+<h1># CoE Manufacturing Pilot Courses</h1>
 A Pilot Lesson Plan for early career professionals, students and transitioning workers with little to no prior manufacturing experience. 
 
 <h2>👨‍💻 Module 1: Basic Manufacturing Terminology </h2>
